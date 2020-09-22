@@ -17,6 +17,7 @@ namespace Lesson1_Exercise1_CS
         else Console.WriteLine(s + " is unknown");
         
       }
+
       Console.ReadKey();
     }
 
